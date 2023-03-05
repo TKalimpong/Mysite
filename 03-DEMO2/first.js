@@ -1,0 +1,1 @@
+window.alert('はじめてのJavaScript!'); //window.は省略できる
